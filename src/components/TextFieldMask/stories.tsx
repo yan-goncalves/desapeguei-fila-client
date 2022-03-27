@@ -16,6 +16,4 @@ export default {
   }
 } as Meta
 
-export const Default: Story<TextFieldMaskProps> = (args) => (
-  <TextFieldMask {...args} />
-)
+export const Default: Story<TextFieldMaskProps> = (args) => <TextFieldMask {...args} />
