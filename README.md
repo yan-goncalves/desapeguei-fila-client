@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/develowl/desapeguei-fila-client/c9f900e0a113141c96b1a70168da9e1937cab3b4/public/img/logo.svg" width=500 />
+  <img src="https://raw.githubusercontent.com/develowl/desapeguei-fila-client/1e8dbea4e89e6d0dd70a2b42483bb85b09645ef7/public/img/logo.svg" width=500 />
 </p>
 
 # Desapeguei by Bruna
